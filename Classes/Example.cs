@@ -8,5 +8,11 @@ namespace ExoVersionning.Classes
 {
     class Example
     {
+        public string Name { get; set; }
+        
+        public void DisplayName()
+        {
+            Console.WriteLine(this.Name);
+        }
     }
 }
