@@ -6,7 +6,7 @@ namespace ExoVersionning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Vous êtes magnifiques!");
         }
     }
 }
